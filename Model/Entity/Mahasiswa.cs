@@ -8,8 +8,8 @@ namespace PerpustakaanApp.Model.Entity
 {
     public class Mahasiswa
     {
-        public string Npm { get; set; }
+        public string Nim { get; set; }
         public string Nama { get; set; }
-        public string Angkatan { get; set; }
+        public string Jurusan { get; set; }
     }
 }
